@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="E:/mathStruct2/leetcode/editor/cn/AddTwoNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="E:/mathStruct2/leetcode/editor/cn/AddTwoNumbers.java" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/mathStruct2/leetcode/editor/cn/Combinations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="E:/mathStruct2/leetcode/editor/cn/Combinations.java" />
+              <option name="questionId" value="77" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/mathStruct2/leetcode/editor/cn/SubsetsIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="E:/mathStruct2/leetcode/editor/cn/SubsetsIi.java" />
+              <option name="questionId" value="90" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
